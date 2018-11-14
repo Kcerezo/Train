@@ -1,0 +1,9 @@
+.jumbotron{
+    background-image: url("images/big.jpg") ;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    color: white;
+}
